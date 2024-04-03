@@ -37,6 +37,10 @@ An unordered list:
   - sub-item1
   - sub-item2
  
+An ordered list:
+1. Item 1
+2. Item 2
+ 
 A table:
 | **Header 1** | Header2|
 |-----------|-----------|
