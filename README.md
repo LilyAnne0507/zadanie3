@@ -32,6 +32,7 @@ A horizontal rule (put one below)
 An unordered list:
 * Item1
 * Item 2
+  - sub-list 1
 * Item3
   - sub-item1
   - sub-item2
