@@ -24,3 +24,6 @@ $$E=mc^2$$
 $$E=mc^2$$
 
 [A hyperlink (to markdown.rstudio.com](https://rmarkdown.rstudio.com/)
+
+A horizontal rule (put one below)
+---
