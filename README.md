@@ -6,8 +6,13 @@
 ```
 A plain code block
 ```
+
 _italic text_
+
 `
 Monospaced text (e.g., code)
 `
+
 ~striked text~
+
+superskript<sup>s2</sup>
